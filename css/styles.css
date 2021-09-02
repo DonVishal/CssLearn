@@ -38,6 +38,7 @@ hr{
   padding-top: 100px;
 }
 .middle-container {
+  margin-top: 100px;
 
 }
 .bottom-container {
@@ -91,7 +92,7 @@ hr{
    color: #FFFFFF;
    font-family: Brush Script MT;
    font-size: 20px;
-   font-weight: 50;
+   font-weight: 100;
    padding: 10px;
    -webkit-box-shadow: 1px 1px 10px 0 #000000;
    -moz-box-shadow: 1px 1px 10px 0 #000000;
